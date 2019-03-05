@@ -1,4 +1,4 @@
-# Intro to Bootstrap
+# Bootstrap Intro
 
 ### Description
 This work was assigned to demonstrate an understanding of Bootstrap and its components. This contains a two-page web application that represents a blog post whilst attempting to use no CSS whatsoever. 
